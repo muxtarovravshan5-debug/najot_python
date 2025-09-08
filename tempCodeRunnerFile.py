@@ -1,0 +1,1 @@
+#tpl = ("salom", "Hayr", "maktab", "alik")

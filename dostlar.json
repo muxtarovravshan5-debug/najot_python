@@ -1,0 +1,25 @@
+[
+    {
+        "name":"Ali",
+        "second":"Fayziyev",
+        "age":23,
+        "subject":["Matematika", "Ingliz tili"]
+    },
+    {
+        "name":"Yusuf",
+        "second":"Boboyev",
+        "age":24,
+        "subject":["Tarix", "Rus tili"]
+    },
+    {
+        "name":"Oxun",
+        "second":"Karimov",
+        "age":19,
+        "subject":["Matematika", "Fizika"]    
+    },{
+        "name":"Shoxrux",
+        "second":"Mardonov",
+        "age":"17",
+        "subject":["Ona tili", "Jismoniy"]
+    }
+]
